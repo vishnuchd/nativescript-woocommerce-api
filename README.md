@@ -1,18 +1,16 @@
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.me/vishnuchd)
+
+[comment]: <> ([![vishnuchd - nativescript-woocommerce-api]&#40;https://img.shields.io/static/v1?label=vishnuchd&message=nativescript-woocommerce-api&color=blue&logo=github&#41;]&#40;https://github.com/vishnuchd/nativescript-woocommerce-api&#41;)
+[![stars - nativescript-woocommerce-api](https://img.shields.io/github/stars/vishnuchd/nativescript-woocommerce-api?style=social)](https://github.com/vishnuchd/nativescript-woocommerce-api)
+[![forks - nativescript-woocommerce-api](https://img.shields.io/github/forks/vishnuchd/nativescript-woocommerce-api?style=social)](https://github.com/vishnuchd/nativescript-woocommerce-api)
+
+[![NPM version][npm-image]][npm-url]
 # @vishnuchd/nativescript-woocommerce-api
 A wrapper that connects Nativescript to the WooCommerce API
 ## Installation
-```javascript
+```
 ns plugin add @vishnuchd/nativescript-woocommerce-api
 ```
-
-## Usage
-
-// TODO
-
-## License
-
-Apache License Version 2.0
-
 
 ## Setup
 
@@ -113,5 +111,13 @@ WooCommerceAPI.invokeDelete('coupons/123')
           });
 });
 ```
+## License
+
+Apache License Version 2.0
+<div align="center">
+  Made with :heart: in India
+</div>
 
 
+[npm-url]: https://www.npmjs.com/package/@vishnuchd/nativescript-woocommerce-api
+[npm-image]: https://img.shields.io/badge/npm-v1.0.2-lightgrey
